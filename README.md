@@ -1,3 +1,3 @@
 # amazingrobocat.github.io
-Hexlet examples
+Hexlet examples from:
 https://ru.hexlet.io/
